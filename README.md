@@ -1,5 +1,5 @@
 ### Yelp Restaurant Rating Analysis
 
-This project takes data from the Yelp and analyses it using python.
+Analyze data from Yelp to assess which variables most influence the star rating and then predict star ratings for other restaurants.  
 
-Pandas, Numpy, Matplotlib and Scikit-Learn are used to load, analyse and build a model from the data. 
+Pandas, Numpy, Matplotlib and Scikit-Learn are used.
